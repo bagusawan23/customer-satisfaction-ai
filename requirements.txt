@@ -1,8 +1,6 @@
 streamlit
 pandas
-scikit-learn==1.4.2
-joblib
-openpyxl
-matplotlib
 seaborn
-requests
+matplotlib
+scikit-learn
+openpyxl
